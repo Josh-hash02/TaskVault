@@ -1,0 +1,21 @@
+{
+    "josh": {
+        "password": "123",
+        "tasks": [
+            {
+                "name": "QUIZ 1",
+                "course": "APPDAET",
+                "type": "Quiz",
+                "deadline": "2026-08-25",
+                "completed": true
+            },
+            {
+                "name": "final",
+                "course": "3dani",
+                "type": "Project",
+                "deadline": "2026-08-14",
+                "completed": true
+            }
+        ]
+    }
+}
